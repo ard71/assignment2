@@ -1,0 +1,26 @@
+body{
+	background-color: #26004d;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+p{
+	font-family: "Helvetica Nue", Helvetica, Arial, sans-serif; 
+	color: white;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+fieldset{
+	text-align: center;
+	color: white;
+}
